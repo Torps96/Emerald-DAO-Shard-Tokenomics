@@ -18,7 +18,7 @@ There are two types of NFTs to give you access to the Emerald DAO:
 
 There is currently a circulating supply of 100 Genesis Emeralds and 953 Regular Emeralds. The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
 
-#### Benefits of Membership
+#### Benefits of Membership:
 Below outlines the current benefits of holding an Emerald:
    * Ability to vote on the DAO's actions, each Emerald held (Genesis or Regular) gives you 1 voting right.
    * Closed discord rooms for discussion of projects, creating proposals to buy projects and to partake in community contests with prizes.
@@ -30,7 +30,7 @@ Below outlines the current benefits of holding an Emerald:
 
 Benefits of holding an Emerald are not limited to the above, there will be additional features added in the future.
 
-#### Genesis vs Regular Emeralds
+#### Genesis vs Regular Emeralds:
 Below outlines the difference between Genesis and Regular Emeralds:
   * Genesis Emeralds have 5 times the chance of winning a raffle/giveaway/whitelist spot than a regular emerald does.
   * Genesis Emeralds will earn 5 times the number of $Shard tokens a Regular Emerald does. 
@@ -41,7 +41,7 @@ The $Shard token is the official token of the Emerald NFT DAO. $Shards will be t
 
 *$Shard Policy ID:*
 
-#### Token Distribution
+#### Token Distribution:
 There will be a total supply of 13,000,000 $Shard.
 
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
@@ -79,5 +79,5 @@ There is an early access period in the distribution to reward the earliest inves
 
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
-#### $Shard Usecases
+### $Shard Usecases
 
