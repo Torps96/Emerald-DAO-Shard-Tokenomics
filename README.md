@@ -4,12 +4,12 @@
 The Emerald DAO is *finish this section with explanation of DAO*
 
 ## Community Wallet
-The Emerald DAO Community Wallet is funded by minting income and royalties from sales on Secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
+The Emerald DAO community wallet is funded by minting income and royalties from sales on secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
 
 The community wallet can be viewed here: https://pool.pm/addr1q9p9962ha5f2j607zmhgf7lhzp79vfxa62zeckal5c5rtfz76ejjl5xauk2fukdh7mjeaxcv3zt6jls0w73p4qxahffq4pflcp
 
 ## Tokens
-Emerald DAO have created two types of tokens, a non-fungible token (NFT) and a fungible token (FT).
+Emerald DAO have built two types of tokens, a Cardano non-fungible token (CNFT) and a fungible token (FT).
 
 ### Cardano Non-Fungible Token (CNFT): Emeralds
 There are two types of NFTs to give you access to the Emerald DAO:
@@ -37,7 +37,7 @@ Below outlines the difference between Genesis and Regular Emeralds:
   * Genesis Emeralds will earn 5 times the number of $Shard tokens a Regular Emerald does. 
   * Genesis Emeralds will have future utility that regular emeralds do not have, TBA.
 
-### Fungible Token: $Shard
+### Fungible Token: $Shard Token
 The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
 
 *$Shard Policy ID:*
@@ -48,7 +48,7 @@ There will be a total supply of 13,000,000 $Shard.
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
 To claim tokens holders will send 2 ada to an address, then receive back $Shard tokens and the ada (minus transaction fees).
 
-**You will only need to send one transaction per week to receive back all $Shard tokens based on the number of emeralds you hold in your wallet.**
+**You will only need to send one transaction per week to receive back all $Shard tokens related to the number of Genesis and Regular Emeralds held in your wallet.**
 
 $Shard will be distributed as follows:
  * *2 Week Early Access Period*: 
@@ -76,7 +76,7 @@ $Shard will be distributed as follows:
     * Regular Emerald = 25 $Shard weekly
     * $Shard distributed = 406,250 (3.125% Supply)
 
-There is an early access period in the distribution to reward the early members of the DAO.
+There is an early access period in the distribution to reward the earliest investors of the DAO.
 
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
