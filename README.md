@@ -11,21 +11,31 @@ The community wallet can be viewed here: https://pool.pm/addr1q9p9962ha5f2j607zm
 ## Tokens
 Emerald DAO have created two types of tokens, a non-fungible token (NFT) and a fungible token (FT).
 
-### Non-Fungible Token: Emeralds
+### Cardano Non-Fungible Token (CNFT): Emeralds
 There are two types of NFTs to give you access to the Emerald DAO:
- * Genesis Emerald: 100 tokens. *Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c*
- * Regular Emerald: 2,000 tokens.   *Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92*
+ * Genesis Emerald: 100 tokens. **Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c**
+ * Regular Emerald: 2,000 tokens.   **Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92**
 
 There are 100 Genesis Emeralds and 953 Regular Emeralds currently circulating in supply.
 The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
 
 #### Benefits of Membership
-The current benefits 
-   * Closed discord rooms for discussion of projects, for creating proposals to buy projects and for community contests.
-   * Being able to vote on the community wallets actions. The wallet is controlled by the community and any use of the wallet funds will have to pass a community vote. Each Emerald held (Genesis or Regular) gives you 1 voting right on the wallet's actions.
-   * Weekly giveaway for Emerald owners: Every week two Emerald owners will be chosen by random to receive ADA to their wallet. Emeralds must be held in your wallet and not listed on secondary marketplaces.
-   * Monthly NFT giveaway for Emerald owners: Every month an Emerald owner will be chosen by random to receive an NFT to their wallet. Some months will have more NFTs sent depending on the community wallet and collabs with other projects.
+Below outlines the current benefits of holding an Emerald:
+   * Ability to vote on the DAO's actions, each Emerald held (Genesis or Regular) gives you 1 voting right.
+   * Closed discord rooms for discussion of projects, creating proposals to buy projects and to partake in community contests with prizes.
+   * Ability to claim $Shard tokens weekly.
+   * Weekly giveaway for Emerald owners: Every week two Emerald holders will be chosen by random to receive ADA to their wallet. Emeralds must be held in your wallet and not listed on secondary marketplaces.
+   * Monthly NFT giveaway for Emerald owners: Every month an Emerald holder will be chosen by random to receive an NFT to their wallet. Some months will have more NFTs sent depending on the community wallet and collabs with other projects.
+   * Whitelist Spots Giveaway: Whenever we partner with projects Emerald holders will be chosen by random to receive whitelist spots to mint the project.
    * Use of community wallet NFTs as profile pictures: Emerald owners will be able to use NFTs in the community wallets as their profile picture with a small edit of an Emerald added to the picture.
+
+Benefits of holding an Emerald are not limited to the above, there will be additional features added in the future.
+
+#### Genesis vs Regular Emeralds
+Below outlines the difference between Genesis and Regular Emeralds:
+  * Genesis Emeralds have 5 times the chance of winning a raffle/giveaway/whitelist spot than a regular emerald does.
+  * Genesis Emeralds will earn 5 times the number of $Shard tokens a Regular Emerald does. 
+  * Genesis Emeralds will have future utility that regular emeralds do not have, TBA.
 
 ### Fungible Token: $Shard
 The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
@@ -33,7 +43,7 @@ The $Shard token is the official token of the Emerald NFT DAO. $Shards will be t
 *$Shard Policy ID:*
 
 #### Token Distribution
-There will be 13,000,000 $Shard total.
+There will be a total supply of 13,000,000 $Shard.
 
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
 To claim tokens holders will send 2 ada to an address, then receive back $Shard tokens and the ada (minus transaction fees).
