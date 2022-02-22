@@ -21,9 +21,9 @@ There are two types of NFTs to give you access to the Emerald DAO:
 There are 100 Genesis emerald and 953 regular Emeralds currently circulating in supply. 
 The remaining supply (1,047 regular Emeralds) will be minted on a future date to be decided by the community.
 
-Genesis Emerald Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c
+**Genesis Emerald Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c
 
-Regular Emerald Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92
+**Regular Emerald Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92
 
 #### Benefits of Membership
 Each emerald held (Genesis or Regular) gives you one voting power in polls within the Emerald DAO discord.
@@ -32,13 +32,13 @@ Each emerald held (Genesis or Regular) gives you one voting power in polls withi
 ### Fungible Token: $Shard
 The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
 
+**Shard Policy ID: 
+
 #### Token distribution
 Tokens will be required to be claimed on a weekly basis by Emerald holders.
 To claim tokens you will send 2 ada to an address, then will receive back $Shard tokens and the ada (minus transaction fees).
 
 Each regular emerald holder will be able to get 100 tokens weekly and each genesis emerald holder will get 500 tokens weekly.
-***You will be able to get the tokens by sending a fixed amount of ada (for example 2 ada) to a specific address, 
-then after few minutes you will get the ada back minus the fees and the tokens.***
 
 #### Circulating supply
 
