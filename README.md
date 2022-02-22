@@ -1,4 +1,4 @@
-# Emerald-DAO-Tokenomics
+# Emerald DAO Tokenomics
 
 ## Intro
 The Emerald DAO is *finish this section with explanation of DAO*
