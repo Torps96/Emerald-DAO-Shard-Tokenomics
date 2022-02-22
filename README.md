@@ -44,12 +44,27 @@ $Shard will be distributed as follows:
  * *2 Week Early Access Period*: 
     * Genesis Emerald = 700 $Shard weekly
     * Regular Emerald = 139.69 $Shard weekly
-    * $Shard distributed = 406,250 $Shard (3.125% Supply)
- * *0-6 Months Period*: 500 $Shard weekly per Genesis Emerald, 100 $Shard weekly per Regular Emerald. $Shard distributed = 6,500,000 $Shard (50% Supply)
- * *6-12 Months Period (1st Halving)*: 250 $Shard weekly per Genesis Emerald, 50 $Shard weekly per Regular Emerald. $Shard distributed = 3,250,000 $Shard (25% Supply)
- * *12-18 Months Period (2nd Halving)*: 125 $Shard weekly per Genesis Emerald, 25 $Shard weekly per Regular Emerald. $Shard distributed = 1,625,000 $Shard (12.5% Supply)
- * *18-24 Months Period (3rd Halving)*: 62.5 $Shard weekly per Genesis Emerald, 12.5 $Shard weekly per Regular Emerald. $Shard distributed = 812,500 $Shard (6.25% Supply)
- * *24-30 Months Period (4th Halving)*: 31.25 $Shard weekly per Genesis Emerald, 6.25 $Shard weekly per Regular Emerald. $Shard distributed = 406,250 $Shard (3.125% Supply)
+    * $Shard distributed = 406,250 (3.125% Supply)
+ * *0-6 Months Period*:
+    * Genesis Emerald = 500 $Shard weekly
+    * Regular Emerald = 100 $Shard weekly
+    * $Shard distributed = 6,500,000 (50% Supply)
+ * *6-12 Months Period (1st Halving)*:
+    * Genesis Emerald = 250 $Shard weekly
+    * Regular Emerald = 50 $Shard weekly
+    * $Shard distributed = 3,250,000 (25% Supply)
+ * *12-18 Months Period (2nd Halving)*: 
+    * Genesis Emerald = 125 $Shard weekly
+    * Regular Emerald = 25 $Shard weekly
+    * $Shard distributed = 1,625,000 (12.5% Supply)
+ * *18-24 Months Period (3rd Halving)*: 
+    * Genesis Emerald = 125 $Shard weekly
+    * Regular Emerald = 25 $Shard weekly
+    * $Shard distributed = 812,500 (6.25% Supply)
+ * *24-30 Months Period (4th Halving)*: 
+    * Genesis Emerald = 125 $Shard weekly
+    * Regular Emerald = 25 $Shard weekly
+    * $Shard distributed = 406,250 (3.125% Supply)
 
 There is an early access period in the distribution to reward the early members of the DAO.
 
