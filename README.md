@@ -22,7 +22,6 @@ There are 100 Genesis emerald and 953 regular Emeralds currently circulating in 
 The remaining supply (1,047 regular Emeralds) will be minted on a future date to be decided by the community.
 
 **Genesis Emerald Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c**
-
 **Regular Emerald Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92**
 
 #### Benefits of Membership
