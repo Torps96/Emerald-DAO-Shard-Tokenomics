@@ -16,8 +16,7 @@ There are two types of NFTs to give you access to the Emerald DAO:
  * Genesis Emerald: 100 tokens. **Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c**
  * Regular Emerald: 2,000 tokens.   **Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92**
 
-There are 100 Genesis Emeralds and 953 Regular Emeralds currently circulating in supply.
-The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
+There is currently a circulating supply of 100 Genesis Emeralds and 953 Regular Emeralds. The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
 
 #### Benefits of Membership
 Below outlines the current benefits of holding an Emerald:
