@@ -81,6 +81,8 @@ There is an early access period in the distribution to reward the earliest inves
 
 ### $Shard Usecases
 $Shard usecases will be revealed in more detail in due course. Below briefly outlines plans:
+
 *Note: Plans are subject to change depending on community votes*
+
  * **Skins**: You will be able to spend your $Shard token on upgrading your Emerald to a new Gem 'skin' out of a choice of Ruby, Amethyst, Diamond. These skins will be used in future for mints & such *idk what to write here really* 
  * **Other Usecases**: *Tcd and saharzzz tell meeeeee*
