@@ -89,7 +89,7 @@ $Shard usecases will be revealed in more detail in due course. Below briefly out
 
 *Please note usecases are subject to change depending on community votes*
 
-### Value of $Shard
+### $Shard Marketcap
 The marketcap of $Shard should be determined by a number of factors:
   * The value of the DAOs assets in the community wallet
   * The potential growth in value of the DAOs assets over time
