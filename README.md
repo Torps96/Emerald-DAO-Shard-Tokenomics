@@ -20,8 +20,12 @@ There are 100 Genesis Emeralds and 953 Regular Emeralds currently circulating in
 The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
 
 #### Benefits of Membership
-Each emerald held (Genesis or Regular) gives you one voting power in polls within the Emerald DAO discord.
-*add benefits*
+The current benefits 
+   * Closed discord rooms for discussion of projects, for creating proposals to buy projects and for community contests.
+   * Being able to vote on the community wallets actions. The wallet is controlled by the community and any use of the wallet funds will have to pass a community vote. Each Emerald held (Genesis or Regular) gives you 1 voting right on the wallet's actions.
+   * Weekly giveaway for Emerald owners: Every week two Emerald owners will be chosen by random to receive ADA to their wallet. Emeralds must be held in your wallet and not listed on secondary marketplaces.
+   * Monthly NFT giveaway for Emerald owners: Every month an Emerald owner will be chosen by random to receive an NFT to their wallet. Some months will have more NFTs sent depending on the community wallet and collabs with other projects.
+   * Use of community wallet NFTs as profile pictures: Emerald owners will be able to use NFTs in the community wallets as their profile picture with a small edit of an Emerald added to the picture.
 
 ### Fungible Token: $Shard
 The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
