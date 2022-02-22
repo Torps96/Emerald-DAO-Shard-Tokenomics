@@ -40,7 +40,7 @@ There will be 13,000,000 $Shard total.
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
 To claim tokens holders will send 2 ada to an address, then receive back $Shard tokens and the ada (minus transaction fees).
 
-**You will only need to send one transaction per week and will receive back all $Shard tokens based on the number of emeralds you hold in your wallet.**
+**You will only need to send one transaction per week to receive back all $Shard tokens based on the number of emeralds you hold in your wallet.**
 
 $Shard will be distributed as follows:
  * *Early Access Period*: $Shard distributed = 406,250 $Shard (3.125% Supply)
@@ -52,5 +52,5 @@ $Shard will be distributed as follows:
 
 There is an early access period in the distribution to reward the early members of the DAO.
 
-#### Circulating supply
+#### $Shard Usecases
 
