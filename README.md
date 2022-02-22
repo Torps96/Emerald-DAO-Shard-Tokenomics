@@ -75,9 +75,11 @@ $Shard will be distributed as follows:
     * Regular Emerald = 25 $Shard weekly
     * $Shard distributed = 406,250 (3.125% Supply)
 
-There is an early access period in the distribution to reward the earliest investors of the DAO.
+There is an early access period in the distribution to reward the earliest investors in the DAO.
 
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
 ### $Shard Usecases
-
+$Shard usecases will be revealed in more detail in due course. Below outlines briefly the plans:
+ * **Skins**: You will be able to spend your $Shard token on upgrading your Emerald to a new Gem 'skin' out of a choice of Ruby, Amethyst, Diamond. These skins will be used in future for mints & such *idk what to write here really* 
+ * **Other Usecases**: *Tcd and saharzzz tell meeeeee*
