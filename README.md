@@ -95,6 +95,6 @@ The marketcap of $Shard should be determined by a number of factors:
 
 To estimate the value of one $Shard token you can use the following calculation:
 
-  **Estimate $Shard price = Value of DAOs Assets / Circulating Supply**  
+  **Estimate $Shard price = Value of DAOs Assets / Circulating Supply of $Shard**  
   
 We have provided the following example below to demonstrate this calculation. In this example we estimate the value of 1 $Shard in one year's time:
