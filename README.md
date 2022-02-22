@@ -4,9 +4,7 @@
 The Emerald DAO is *finish this section with explanation of DAO*
 
 ## Community Wallet
-The Emerald DAO Community Wallet is funded by minting income and royalties from sales on Secondary marketplaces.
-
-65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
+The Emerald DAO Community Wallet is funded by minting income and royalties from sales on Secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
 
 The community wallet can be viewed here: https://pool.pm/addr1q9p9962ha5f2j607zmhgf7lhzp79vfxa62zeckal5c5rtfz76ejjl5xauk2fukdh7mjeaxcv3zt6jls0w73p4qxahffq4pflcp
 
@@ -18,8 +16,8 @@ There are two types of NFTs to give you access to the Emerald DAO:
  * Genesis Emerald: 100 tokens
  * Regular Emerald: 2,000 tokens
 
-There are 100 Genesis emerald and 953 regular Emeralds currently circulating in supply. 
-The remaining supply (1,047 regular Emeralds) will be minted on a future date to be decided by the community.
+There are 100 Genesis Emeralds and 953 Regular Emeralds currently circulating in supply.
+The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
 
 **Genesis Emerald Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c**
 
