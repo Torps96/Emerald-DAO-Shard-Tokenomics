@@ -80,6 +80,7 @@ There is an early access period in the distribution to reward the earliest inves
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
 ### $Shard Usecases
-$Shard usecases will be revealed in more detail in due course. Below outlines briefly the plans:
+$Shard usecases will be revealed in more detail in due course. Below briefly outlines plans:
+*Note: Plans are subject to change depending on community votes*
  * **Skins**: You will be able to spend your $Shard token on upgrading your Emerald to a new Gem 'skin' out of a choice of Ruby, Amethyst, Diamond. These skins will be used in future for mints & such *idk what to write here really* 
  * **Other Usecases**: *Tcd and saharzzz tell meeeeee*
