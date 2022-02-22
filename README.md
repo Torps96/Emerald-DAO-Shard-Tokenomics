@@ -13,8 +13,8 @@ Emerald DAO have created two types of tokens, a non-fungible token (NFT) and a f
 
 ### Non-Fungible Token: Emeralds
 There are two types of NFTs to give you access to the Emerald DAO:
- * Genesis Emerald: 100 tokens   **Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c**
- * Regular Emerald: 2,000 tokens   **Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92**
+ * Genesis Emerald: 100 tokens   *Policy ID: 1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c*
+ * Regular Emerald: 2,000 tokens   *Policy ID: c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92*
 
 There are 100 Genesis Emeralds and 953 Regular Emeralds currently circulating in supply.
 The remaining supply (1,047 Regular Emeralds) will be minted on a future date to be decided by a community vote.
@@ -26,9 +26,9 @@ Each emerald held (Genesis or Regular) gives you one voting power in polls withi
 ### Fungible Token: $Shard
 The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
 
-**$Shard Policy ID:**
+*$Shard Policy ID:*
 
-#### Token distribution
+#### Token Distribution
 There will be 13,000,000 $Shard total.
 
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
@@ -64,7 +64,7 @@ $Shard will be distributed as follows:
 
 There is an early access period in the distribution to reward the early members of the DAO.
 
-**We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.**
+*We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
 #### $Shard Usecases
 
