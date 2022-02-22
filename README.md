@@ -82,7 +82,19 @@ There is an early access period in the distribution to reward the earliest inves
 ### $Shard Usecases
 $Shard usecases will be revealed in more detail in due course. Below briefly outlines plans:
 
-*Note: Plans are subject to change depending on community votes*
-
  * **Skins**: You will be able to spend your $Shard token on upgrading your Emerald to a new Gem 'skin' out of a choice of Ruby, Amethyst, Diamond. These skins will be used in future for mints & such *idk what to write here really* 
  * **Other Usecases**: *Tcd and saharzzz tell meeeeee*
+
+*Please note usecases are subject to change depending on community votes*
+
+### Value of $Shard
+The marketcap of $Shard should be determined by a number of factors:
+  * The value of the DAOs assets in the community wallet
+  * The potential growth in value of the DAOs assets over time
+  * The usecases of the $Shard tokens
+
+To estimate the value of one $Shard token you can use the following calculation:
+
+  **Estimate $Shard price = Value of DAOs Assets / Circulating Supply**  
+  
+We have provided the following example below to demonstrate this calculation. In this example we estimate the value of 1 $Shard in one year's time:
