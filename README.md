@@ -99,7 +99,7 @@ To estimate the value of one $Shard token you can use the following calculation:
 
   **Estimate $Shard price = Value of DAOs Assets / Circulating Supply of $Shard**  
   
-We have provided the following example below to demonstrate this calculation. In this example we estimate the value of a $Shard in one year's time based on the DAOs assets doubling in value:
+We have provided the following example below to demonstrate this calculation. In this example we estimate the value of a $Shard in one year's time based on the DAOs assets appreciating in value by 2x, 5x, 10x.
 
-![image](https://user-images.githubusercontent.com/99878273/155233904-ecd255ac-5471-43c2-8a56-d170989b4f17.png)
+![image](https://user-images.githubusercontent.com/99878273/155313970-464e7956-4751-4511-9e4c-24079550fd54.png)
 
