@@ -1,7 +1,8 @@
 # Emerald DAO Tokenomics
 
 ## Intro
-The Emerald DAO is *finish this section with explanation of DAO*
+The Emerald DAO is one of the first fully democratic community wallet on the Cardano blockchain. We aim to become a fully functional DAO in the future once this functionality is available. 
+Each buy/sell decision is decided via a poll on the discord, that only emerald owners have access to. By using the psychological effect "wisdom of the crowd" we are expecting to beat the average investor's ROI and share the profits amongst Emerald owners.
 
 ## Community Wallet
 The Emerald DAO community wallet is funded by minting income and royalties from sales on secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
