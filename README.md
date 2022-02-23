@@ -77,7 +77,7 @@ $Shard will be distributed as follows:
     * $Shard distributed = 406,250 (3.125% Supply)
 
 The table below helps visualise this distribution:
-![image](https://user-images.githubusercontent.com/99878273/155411523-569f1f4f-6f0d-4ee4-a65b-d1a9ec2e9a93.png)
+![image](https://user-images.githubusercontent.com/99878273/155413672-382d6082-acf9-4c2c-a7d0-6baa4e5db09e.png)
 
 The early access period for two weeks has been chosen to reward the earliest investors in the DAO.
 
