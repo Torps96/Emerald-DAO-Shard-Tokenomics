@@ -78,7 +78,7 @@ $Shard will be distributed as follows:
 The table below expands on this distribution:
 ![image](https://user-images.githubusercontent.com/99878273/155374786-331947bb-2a54-4ff7-8d09-7cd22d7e84a9.png)
 
-There is an early access period in the distribution to reward the earliest investors in the DAO.
+The early access period for two weeks has been chosen to reward the earliest investors in the DAO.
 
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
