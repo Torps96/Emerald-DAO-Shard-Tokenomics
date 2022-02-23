@@ -75,7 +75,7 @@ $Shard will be distributed as follows:
     * Regular Emerald = 25 $Shard weekly
     * $Shard distributed = 406,250 (3.125% Supply)
 
-![$Shard Distribution](https://user-images.githubusercontent.com/99878273/155233961-42a64a11-11e8-44e6-ac71-c391f974889b.png)
+![image](https://user-images.githubusercontent.com/99878273/155374786-331947bb-2a54-4ff7-8d09-7cd22d7e84a9.png)
 
 There is an early access period in the distribution to reward the earliest investors in the DAO.
 
