@@ -86,16 +86,18 @@ There is an early access period in the distribution to reward the earliest inves
 ### $Shard Usecases
 $Shard usecases will be revealed in more detail in due course. Below briefly outlines plans:
 
- * **Skins**: You will be able to spend your $Shard token on upgrading your Emerald to a new Gem 'skin' out of a choice of Ruby, Amethyst, Diamond. These skins will be used in future for mints & such *idk what to write here really* 
- * **Other Usecases**: *Tcd and saharzzz tell meeeeee*
+ * **Skins**: Ability to spend $Shard token on upgrading your Emerald to a new 'skin' out of a choice of Emerald, Ruby, Amethyst, Diamond. These skins will give you whitelist access to a PFP Collection.
+ * **PFP Collection**: Holding skins give whitelist access to a PFP collection. The PFP collection can be minted with $Shard tokens. *More details to follow*
+ * **$Shard Lottery**: Spend $Shard tokens to enter a lottery. **This is subject to regulations within countries, so cannot be confirmed currently**.
+ * **And more to be announced!**
 
-*Please note usecases are subject to change depending on community votes*
+*Please note usecases are also subject to change depending on community votes*
 
 ### $Shard Marketcap
-The value of $Shard should be determined by a number of factors:
+The value of $Shard can be determined by a number of factors:
   * The circulating supply of $Shard
   * The utility of the $Shard tokens
   * The value of the DAOs assets in the community wallet
   * The potential growth in value of the DAOs assets over time
 
-We will not speculate on the equivalent ADA value of one $Shard over time. The community will decide how they want to use its utility and how much they are willing to pay for it.
+We will not speculate on the equivalent ADA value of one $Shard over time. The community will decide how they want to value the token and use its utility.
