@@ -37,9 +37,7 @@ Below outlines the difference between Genesis and Regular Emeralds:
   * Genesis Emeralds will have future utility that regular emeralds do not have, TBA.
 
 ### Fungible Token: $Shard Token
-The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem. 
-
-$Shard is a utility token for the Emerald DAO, not a governance token.
+The $Shard token is the official token of the Emerald NFT DAO. $Shard is a utility token for the Emerald DAO, not a governance token. $Shards will be the fuel that powers the Emerald DAO ecosystem.
 
 *$Shard Policy ID:*
 
