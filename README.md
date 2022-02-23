@@ -37,7 +37,9 @@ Below outlines the difference between Genesis and Regular Emeralds:
   * Genesis Emeralds will have future utility that regular emeralds do not have, TBA.
 
 ### Fungible Token: $Shard Token
-The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem.
+The $Shard token is the official token of the Emerald NFT DAO. $Shards will be the fuel that powers the Emerald DAO ecosystem. 
+
+$Shard is a utility token for the Emerald DAO, not a governance token.
 
 *$Shard Policy ID:*
 
@@ -90,16 +92,10 @@ $Shard usecases will be revealed in more detail in due course. Below briefly out
 *Please note usecases are subject to change depending on community votes*
 
 ### $Shard Marketcap
-The marketcap of $Shard should be determined by a number of factors:
+The value of $Shard should be determined by a number of factors:
+  * The circulating supply of $Shard
+  * The utility of the $Shard tokens
   * The value of the DAOs assets in the community wallet
   * The potential growth in value of the DAOs assets over time
-  * The usecases of the $Shard tokens
 
-To estimate the value of one $Shard token you can use the following calculation:
-
-  **Estimate $Shard price = Value of DAOs Assets / Circulating Supply of $Shard**  
-  
-We have provided the following example below to demonstrate this calculation. In this example we estimate the value of a $Shard in one year's time based on the DAOs assets appreciating in value by 2x, 5x, 10x.
-
-![image](https://user-images.githubusercontent.com/99878273/155313970-464e7956-4751-4511-9e4c-24079550fd54.png)
-
+We will not speculate on the equivalent ADA value of one $Shard over time. The community will decide how they want to use its utility and how much they are willing to pay for it.
