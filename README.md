@@ -83,7 +83,7 @@ The early access period for two weeks has been chosen to reward the earliest inv
 
 *We will let the community decide what happens with any unclaimed $Shards. For example, burn them, use for giveaways or send them to the community wallet.*
 
-### $Shard Usecases
+### $Shard Utility
 $Shard usecases will be revealed in more detail in due course. Below briefly outlines plans:
 
  * **Skins**: Ability to spend $Shard token on upgrading your Emerald to a new 'skin' out of a choice of Emerald, Ruby, Amethyst, Diamond. Each skin will give you whitelist access to a PFP Collection. *More details to follow*
