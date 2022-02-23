@@ -68,12 +68,12 @@ $Shard will be distributed as follows:
     * Regular Emerald = 25 $Shard weekly
     * $Shard distributed = 1,625,000 (12.5% Supply)
  * *18-24 Months Period (3rd Halving)*: 
-    * Genesis Emerald = 125 $Shard weekly
-    * Regular Emerald = 25 $Shard weekly
+    * Genesis Emerald = 62.5 $Shard weekly
+    * Regular Emerald = 12.5 $Shard weekly
     * $Shard distributed = 812,500 (6.25% Supply)
  * *24-30 Months Period (4th Halving)*: 
-    * Genesis Emerald = 125 $Shard weekly
-    * Regular Emerald = 25 $Shard weekly
+    * Genesis Emerald = 31.25 $Shard weekly
+    * Regular Emerald = 6.25 $Shard weekly
     * $Shard distributed = 406,250 (3.125% Supply)
 
 The table below helps visualise this distribution:
