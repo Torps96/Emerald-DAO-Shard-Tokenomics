@@ -88,7 +88,7 @@ $Shard usecases will be revealed in more detail in due course. Below briefly out
 
  * **Skins**: Ability to spend $Shard token on upgrading your Emerald to a new 'skin' out of a choice of Emerald, Ruby, Amethyst, Diamond. Each skin will give you whitelist access to a PFP Collection. *More details to follow*
  * **PFP Collection**: Holding skins give whitelist access to a PFP collection. The PFP collection can be minted with $Shard tokens. *More details to follow*
- * **$Shard Lottery**: Spend $Shard tokens to enter a lottery. **This is subject to regulations within countries, so cannot be confirmed currently**.
+ * **$Shard Lottery**: Spend $Shard tokens to enter a lottery. **This is subject to regulations within countries, so cannot be 100% confirmed currently**.
  * **And more to be announced!**
 
 *Please note usecases are also subject to change depending on community votes*
