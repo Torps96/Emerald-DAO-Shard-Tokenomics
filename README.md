@@ -100,4 +100,4 @@ The value of $Shard can be determined by a number of factors:
   * The value of the DAOs assets in the community wallet
   * The potential growth in value of the DAOs assets over time
 
-We will not speculate on the equivalent ADA value of one $Shard over time. The community will decide how they want to value the token and use its utility.
+Although we will aim to be listed on all marketplaces we will not speculate on the equivalent ADA value of one $Shard over time. The community will decide how they want to value the token and use its utility within our ecosystem.
