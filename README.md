@@ -1,9 +1,9 @@
 # Emerald DAO Tokenomics
 
 ## Intro
-The Emerald DAO is one of the first fully democratic community wallets on the Cardano blockchain. We aim to become a fully functional DAO in the future once this functionality is available.
+The Emerald DAO is one of the first democratic community wallets on the Cardano blockchain. Our aim is to become a fully functional DAO once this functionality is available on Cardano. By using the psychological effect "wisdom of the crowd" we are expecting to beat the average investor's ROI and share the profits amongst Emerald owners.
 
-Currently each buy/sell decision is decided via a poll on the discord, that only Emerald owners have access to. By using the psychological effect "wisdom of the crowd" we are expecting to beat the average investor's ROI and share the profits amongst Emerald owners.
+This article will outline the Emerald DAO tokens distribution, benefits and utlities.
 
 ## Community Wallet
 The Emerald DAO community wallet is funded by minting income and royalties from sales on secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
@@ -22,19 +22,19 @@ There is currently a circulating supply of 100 Genesis Emeralds and 953 Regular 
 
 #### Benefits of Membership:
 Below outlines the current benefits of holding an Emerald:
-   * Ability to vote on the DAO's actions, each Emerald held (Genesis or Regular) gives you 1 voting right.
-   * Closed discord rooms for discussion of projects, creating proposals to buy projects and to partake in community contests with prizes.
+   * Ability to vote on the DAO's actions, each Emerald held (Genesis or Regular) gives you 1 voting power in polls.
+   * Closed discord rooms for discussions on projects, creation of proposals to buy projects and to partake in community contests with prizes.
    * Ability to claim $Shard tokens weekly.
    * Weekly giveaway for Emerald owners: Every week two Emerald holders will be chosen by random to receive ADA to their wallet. Emeralds must be held in your wallet and not listed on secondary marketplaces.
-   * Monthly NFT giveaway for Emerald owners: Every month an Emerald holder will be chosen by random to receive an NFT to their wallet. Some months will have more NFTs sent depending on the community wallet and collabs with other projects.
-   * Whitelist Spots Giveaway: Whenever we partner with projects Emerald holders will be chosen by random to receive whitelist spots to mint the project.
+   * Monthly NFT giveaway for Emerald owners: Every month an Emerald holder will be chosen by random to receive an NFT to their wallet. Some months will have more NFTs sent depending on the community wallet and collaborations with projects.
+   * Whitelist Spots Giveaway: Whenever we partner with projects Emerald holders will be chosen by random to receive whitelist spots to mint said project.
    * Use of community wallet NFTs as profile pictures: Emerald owners will be able to use NFTs in the community wallets as their profile picture with a small edit of an Emerald added to the picture.
 
 Benefits of holding an Emerald are not limited to the above, there will be additional features added in the future.
 
 #### Genesis vs Regular Emeralds:
 Below outlines the difference between Genesis and Regular Emeralds:
-  * Genesis Emeralds have 5 times the chance of winning a raffle/giveaway/whitelist spot than a regular emerald does.
+  * Genesis Emeralds have 5 times the chance of winning a raffle/giveaway/whitelist spot than a Regular Emerald does.
   * Genesis Emeralds will earn 5 times the number of $Shard tokens a Regular Emerald does. 
   * Genesis Emeralds will have future utility that regular emeralds do not have, TBA.
 
