@@ -79,6 +79,7 @@ $Shard will be distributed as follows:
 
 The table below helps visualise this distribution:
 ![image](https://user-images.githubusercontent.com/99878273/155413672-382d6082-acf9-4c2c-a7d0-6baa4e5db09e.png)
+![$Shard Distribution](https://user-images.githubusercontent.com/99878273/155595419-705716f9-b4f7-4dab-88ac-a42b1227dc65.png)
 
 The early access period for two weeks has been chosen to reward the earliest investors in the DAO.
 
