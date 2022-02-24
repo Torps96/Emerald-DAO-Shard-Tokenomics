@@ -13,7 +13,7 @@ The Emerald DAO community wallet is funded by minting income and royalties from 
 The community wallet can be viewed here: https://pool.pm/addr1q9p9962ha5f2j607zmhgf7lhzp79vfxa62zeckal5c5rtfz76ejjl5xauk2fukdh7mjeaxcv3zt6jls0w73p4qxahffq4pflcp
 
 ## Tokens
-Emerald DAO have built two types of tokens, a Cardano non-fungible token (CNFT) and a Cardano fungible token (CFT).
+Emerald DAO have built two types of tokens on the Cardano blockchain, a non-fungible token (NFT) and a fungible token (FT).
 
 ### Cardano Non-Fungible Token (CNFT): Emeralds
 There are two types of NFTs which grant you access to the Emerald DAO:
