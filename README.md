@@ -80,7 +80,6 @@ $Shard will be distributed as follows:
     * $Shard distributed = 650,000 (3.12% Supply)
 
 The table below helps visualise this distribution:
-![$Shard Distribution](https://user-images.githubusercontent.com/99878273/155595419-705716f9-b4f7-4dab-88ac-a42b1227dc65.png)
 ![$Shard Distribution](https://user-images.githubusercontent.com/99878273/156066292-9b1b419b-d687-42f2-8590-bd8d73ce2ea5.png)
 
 The early access period for two weeks has been chosen to reward the earliest investors in the DAO. In these two weeks holders will receive 1.5x the token received in the 0-6 months period.
