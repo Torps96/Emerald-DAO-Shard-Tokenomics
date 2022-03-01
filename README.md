@@ -46,7 +46,7 @@ The $Shard token is the official token of the Emerald NFT DAO. $Shard is a utili
 *$Shard Policy ID: To be posted*
 
 #### Token Distribution:
-There will be a total supply of 20,847,440 $Shard.
+There will be a total supply of 13,000,000 $Shard.
 
 $Shard tokens are required to be claimed on a **weekly** basis by Emerald holders.
 To claim tokens holders will send 2 ada to an address, then receive back $Shard tokens and the ada (minus transaction fees).
@@ -54,32 +54,32 @@ To claim tokens holders will send 2 ada to an address, then receive back $Shard 
 **You will only need to send one transaction per week to receive back all $Shard tokens related to the number of Genesis and Regular Emeralds held in your wallet.**
 
 $Shard will be distributed as follows:
- * *2 Week Early Access Period*: 
-    * Genesis Emerald = 1200 $Shard weekly
-    * Regular Emerald = 240 $Shard weekly
-    * $Shard distributed = 697,440 (3.35% Supply)
+   * Genesis Emerald = 700 $Shard weekly
+    * Regular Emerald = 139.69 $Shard weekly
+    * $Shard distributed = 406,250 (3.125% Supply)
  * *0-6 Months Period*:
-    * Genesis Emerald = 800 $Shard weekly
-    * Regular Emerald = 160 $Shard weekly
-    * $Shard distributed = 10,400,000 (49.89% Supply)
+    * Genesis Emerald = 500 $Shard weekly
+    * Regular Emerald = 100 $Shard weekly
+    * $Shard distributed = 6,500,000 (50% Supply)
  * *6-12 Months Period (1st Halving)*:
-    * Genesis Emerald = 400 $Shard weekly
-    * Regular Emerald = 80 $Shard weekly
-    * $Shard distributed = 5,200,000 (24.94% Supply)
+    * Genesis Emerald = 250 $Shard weekly
+    * Regular Emerald = 50 $Shard weekly
+    * $Shard distributed = 3,250,000 (25% Supply)
  * *12-18 Months Period (2nd Halving)*: 
-    * Genesis Emerald = 200 $Shard weekly
-    * Regular Emerald = 40 $Shard weekly
-    * $Shard distributed = 2,600,000 (12.47% Supply)
+    * Genesis Emerald = 125 $Shard weekly
+    * Regular Emerald = 25 $Shard weekly
+    * $Shard distributed = 1,625,000 (12.5% Supply)
  * *18-24 Months Period (3rd Halving)*: 
-    * Genesis Emerald = 100 $Shard weekly
-    * Regular Emerald = 20 $Shard weekly
-    * $Shard distributed = 1,300,000 (6.24% Supply)
+    * Genesis Emerald = 62.5 $Shard weekly
+    * Regular Emerald = 12.5 $Shard weekly
+    * $Shard distributed = 812,500 (6.25% Supply)
  * *24-30 Months Period (4th Halving)*: 
-    * Genesis Emerald = 50 $Shard weekly
-    * Regular Emerald = 10 $Shard weekly
-    * $Shard distributed = 650,000 (3.12% Supply)
+    * Genesis Emerald = 31.25 $Shard weekly
+    * Regular Emerald = 6.25 $Shard weekly
+    * $Shard distributed = 406,250 (3.125% Supply)
 
 The table below helps visualise this distribution:
+![$Shard Distribution](https://user-images.githubusercontent.com/99878273/155595419-705716f9-b4f7-4dab-88ac-a42b1227dc65.png)
 ![$Shard Distribution](https://user-images.githubusercontent.com/99878273/156066292-9b1b419b-d687-42f2-8590-bd8d73ce2ea5.png)
 
 The early access period for two weeks has been chosen to reward the earliest investors in the DAO. In these two weeks holders will receive 1.5x the token received in the 0-6 months period.
