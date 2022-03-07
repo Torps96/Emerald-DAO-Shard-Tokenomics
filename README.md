@@ -54,7 +54,8 @@ To claim tokens holders will send 2 ada to an address, then receive back $Shard 
 **You will only need to send one transaction per week to receive back all $Shard tokens related to the number of Genesis and Regular Emeralds held in your wallet.**
 
 $Shard will be distributed as follows:
-   * Genesis Emerald = 700 $Shard weekly
+ * *Early Access (2 Week Period)
+    * Genesis Emerald = 700 $Shard weekly
     * Regular Emerald = 139.69 $Shard weekly
     * $Shard distributed = 406,250 (3.125% Supply)
  * *0-6 Months Period*:
