@@ -43,7 +43,7 @@ Below outlines the difference between Genesis and Regular Emeralds:
 ### Fungible Token: $SHARD Token
 The $SHARD token is the official token of the Emerald NFT DAO. $SHARD is a utility token for the Emerald DAO, not a governance token. $SHARDs will be the fuel that powers the Emerald DAO ecosystem.
 
-*$SHARD Policy ID: To be posted*
+**$SHARD Policy ID: 52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a**
 
 #### Token Distribution:
 There will be a total supply of 13,000,000 $SHARD.
