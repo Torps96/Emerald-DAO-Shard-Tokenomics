@@ -5,7 +5,7 @@ The Emerald DAO is one of the first democratic community wallets on the Cardano 
 
 In future, our goal is to become a fully fledged DAO once this functionality is available on the Cardano blockchain.
 
-This article will outline details on the Emerald DAOs tokens, their distributions and utlities.
+This article will outline details on the Emerald DAOs tokens, their distributions and utilities.
 
 ## Community Wallet
 The Emerald DAO community wallet is funded by minting income and royalties from sales on secondary marketplaces. 65% of funds received go to the community wallet, 25% to the team and 10% for marketing purposes.
